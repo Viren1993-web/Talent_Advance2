@@ -1,0 +1,17 @@
+G:\IT\IC\Project1\Advance_Cloned\talent-standard-tasks\Talent.Api\bin\Debug\netcoreapp2.0\appsettings.Development.json
+G:\IT\IC\Project1\Advance_Cloned\talent-standard-tasks\Talent.Api\bin\Debug\netcoreapp2.0\appsettings.json
+G:\IT\IC\Project1\Advance_Cloned\talent-standard-tasks\Talent.Api\bin\Debug\netcoreapp2.0\Talent.Api.deps.json
+G:\IT\IC\Project1\Advance_Cloned\talent-standard-tasks\Talent.Api\bin\Debug\netcoreapp2.0\Talent.Api.runtimeconfig.json
+G:\IT\IC\Project1\Advance_Cloned\talent-standard-tasks\Talent.Api\bin\Debug\netcoreapp2.0\Talent.Api.runtimeconfig.dev.json
+G:\IT\IC\Project1\Advance_Cloned\talent-standard-tasks\Talent.Api\bin\Debug\netcoreapp2.0\Talent.Api.dll
+G:\IT\IC\Project1\Advance_Cloned\talent-standard-tasks\Talent.Api\bin\Debug\netcoreapp2.0\Talent.Api.pdb
+G:\IT\IC\Project1\Advance_Cloned\talent-standard-tasks\Talent.Api\bin\Debug\netcoreapp2.0\Talent.Common.dll
+G:\IT\IC\Project1\Advance_Cloned\talent-standard-tasks\Talent.Api\bin\Debug\netcoreapp2.0\Talent.Common.pdb
+G:\IT\IC\Project1\Advance_Cloned\talent-standard-tasks\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.csprojAssemblyReference.cache
+G:\IT\IC\Project1\Advance_Cloned\talent-standard-tasks\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.AssemblyInfoInputs.cache
+G:\IT\IC\Project1\Advance_Cloned\talent-standard-tasks\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.AssemblyInfo.cs
+G:\IT\IC\Project1\Advance_Cloned\talent-standard-tasks\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.csproj.CoreCompileInputs.cache
+G:\IT\IC\Project1\Advance_Cloned\talent-standard-tasks\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.csproj.CopyComplete
+G:\IT\IC\Project1\Advance_Cloned\talent-standard-tasks\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.dll
+G:\IT\IC\Project1\Advance_Cloned\talent-standard-tasks\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.pdb
+G:\IT\IC\Project1\Advance_Cloned\talent-standard-tasks\Talent.Api\obj\Debug\netcoreapp2.0\Talent.Api.genruntimeconfig.cache
